@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Pablo+Eduardo&fontSize=30&fontColor=fff&animation=twinkling&fontAligny=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Pablo+Eduardo+/+Yuuta+Kinoshi&fontSize=30&fontColor=fff&animation=twinkling&fontAligny=35" />
 
 <span align='left'>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Pablo+Eduardo;I'm+17+years+old;I+from+Brasil,+MG;Be+Welcome!+:%29;初めまして、パブロとお申します！;17歳です;ブラジル、MGから;ようこそ！<3)](https://git.io/typing-svg)</span>
 
