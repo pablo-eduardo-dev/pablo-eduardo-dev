@@ -1,6 +1,10 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Pablo+Eduardo&fontSize=30&fontColor=fff&animation=twinkling&fontAligny=35" />
+
+<span align='left'>[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Pablo+Eduardo;I'm+17+years+old;I+from+Brasil,+MG;Be+Welcome!+:%29)](https://git.io/typing-svg)</span>
+
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/pablo-eduardo-dev/fa813bbb5830462a791c8de2bb1b4fe2/raw/0d5a459f3381e89e3f43235fdece814f7e85578d/perfil-card.svg"/>
 
-<h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Pablo Eduardo</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablo-eduardo-dev&color=yellow" alt="Profile views" /> </p>
 
