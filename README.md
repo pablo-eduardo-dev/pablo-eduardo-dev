@@ -8,13 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablo-eduardo-dev&color=e06262" alt="Profile views" /> </p>
 
-- 🔥 Front-end Developer
+- 🔥 Front-end Developer.
 
-- 🔭 I’m currently studying React
+- 🔭 I’m currently studying React. Let's study together?
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SASS, React**
+- 💬 Ask me about **JavaScript, HTML, CSS, SASS, React**.
 
-- ⚡ Soon full-stack
+- ⚡ Soon full-stack.
 
 <br><br>
 
