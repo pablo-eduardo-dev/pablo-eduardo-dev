@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently studying React. Let's study together?
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SASS, React**.
+- 💬 Ask me about **JavaScript, HTML, CSS, SASS, JS, React**.
 
 - ⚡ Soon full-stack.
 
